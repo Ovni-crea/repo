@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.broly" name="[COLOR FFFFD800]Broly repository[/COLOR]" version="2.0" provider-name="bRoLy">
+	<extension point="xbmc.addon.repository" name="bRoLy">
+		<info compressed="false">https://raw.githubusercontent.com/Ovni-crea/repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Ovni-crea/repo/master/addons.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Ovni-crea/repo/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>depot d extension</summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
